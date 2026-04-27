@@ -6,6 +6,7 @@ from reporte import generar_reporte
 lista_notas_global = []
 lista_estudiantes_global = []
 
+
 def opcion_1():
     global lista_estudiantes_global
 
